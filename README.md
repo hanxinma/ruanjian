@@ -1,6 +1,7 @@
 # 软件下载-汉心快打输入法
 ---
-[汉心快打输入法软件下载](https://gitee.com/hanxinma/ruanjian/releases/)
+## [汉心快打输入法软件下载](https://gitee.com/hanxinma/ruanjian/releases/)
+
 
 找到对应的软件下载安装好就可以用了
 

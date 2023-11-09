@@ -6,6 +6,6 @@
 #### 软件架构
 软件架构说明
 
-[码表文件相关下载](https://gitee.com/hanxinma/hanxinma/)
+[码表文件相关下载](https://gitee.com/hanxinma/hanxin/)
 
 [汉心快打输入法软件下载](https://gitee.com/hanxinma/ruanjian/releases/)
